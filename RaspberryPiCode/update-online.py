@@ -6,11 +6,11 @@ from Adafruit_IO import Client, Feed, RequestError
 # Set to your Adafruit IO key.
 # Remember, your key is a secret,
 # so make sure not to publish it when you publish this code!
-ADAFRUIT_IO_KEY = 'aio_FEPe45GB6EpB9Q4y7qKlpN9UOf2C'
+ADAFRUIT_IO_KEY = 'AddYourKeyHere'
 
 # Set to your Adafruit IO username.
 # (go to https://accounts.adafruit.com to find your username)
-ADAFRUIT_IO_USERNAME = 'DIYMlewis'
+ADAFRUIT_IO_USERNAME = 'AddYurUserNameHere'
 
 # Create an instance of the REST client.
 aio = Client(ADAFRUIT_IO_USERNAME, ADAFRUIT_IO_KEY)
