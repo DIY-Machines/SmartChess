@@ -1,5 +1,5 @@
 # Super Smart Chessboard
-Play remotely over the ineternet, or locally against the inbuilt computer.
+Play remotely over the internet, or locally against the inbuilt computer.
 
 Project video available at: https://youtu.be/Z92TdhsAWD4
 
