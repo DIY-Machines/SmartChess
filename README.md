@@ -2,6 +2,7 @@
 Play remotely over the ineternet, or locally against the inbuilt computer.
 
 Project video available at: https://youtu.be/Z92TdhsAWD4
+
 Find wiring diagrams, 3d printable parts and more here: https://www.diymachines.co.uk/smart-chess-board-with-remote-and-local-play
 
 ==========
